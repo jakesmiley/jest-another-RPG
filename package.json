@@ -18,5 +18,8 @@
   "homepage": "https://github.com/jakesmiley/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.14"
   }
 }
